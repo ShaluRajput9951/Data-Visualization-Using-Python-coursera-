@@ -1,0 +1,12 @@
+Links for Data files and GEOJSon file
+
+
+https://cocl.us/datascience_survey_data
+
+
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
+
+
+
+https://cocl.us/sanfran_geojson
